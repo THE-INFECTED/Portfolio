@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  color: whitesmoke;
+  background: black;
+  font: 300 22px/22px "Open Sans", Helvetica;
+}
+h1, h2, h4, h5 {
+  font: inherit; 
+}
+
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.columns {
+  font: 30px "OpenSans",sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;  
+  margin: 0 auto;
+  width: 960px;
+}
+.column-1-2 {
+  padding-left: 15px;
+  padding-right: 15px;
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+
+h1, h3, h4, h5, p {
+  margin-bottom: 22px;
+}
+
+h1, h2, h4 {
+  color: whitesmoke;
+  
+}
+h1{
+  font: 50px/44px "OpenSans", sans-serif;
+  text-decoration: underline;
+  
+}
+h2{
+  font: 32px/44px "OpenSans",sans-serif;
+}
+  h3{
+  font:23px "OpenSans",sans-serif;
+  text-align: left;
+  color: gray;
+  text-decoration: underline;
+} 
+ p{
+  font:21px "OpenSans",sans-serif;
+  color: gray;
+  }
+
+  h7{
+  font:21px "OpenSans",sans-serif;
+  color: gray;
+  text-decoration: underline;
+} 
+#wavy{text-decoration-style: wavy;} 
+h6{
+  font:21px "OpenSans",sans-serif;
+   color: whitesmoke;
+   text-align: left;
+}
+
+h5{
+  color: whitesmoke;
+ font:  400 27px "OpenSans",sans-serif;
+ text-transform: uppercase;
+ text-decoration:underline;
+}
+
+li{ color: whitesmoke;
+font: 400 18px "OpenSans",sans-serif;
+text-align: left;}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+
+
+.logo {
+  border-top: 4px solid white;
+  padding: 40px 0 22px 0;
+}
+.tagline {
+  margin: 66px 0 22px 0;
+  text-align: right;
+}
+
+
+
+.banner {
+  font: 44px "OpenSans",sans-serif;
+  text-align: center;
+  padding: 22px 80px 66px 80px;
+}
+.banner p {
+  font: 24px "OpenSans",sans-serif;
+}
+
+
+
